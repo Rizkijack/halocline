@@ -1,6 +1,6 @@
+makefun-keypair*.json
+*.jwk.json
+rizkijack-credentials.json
 out/
 node_modules/
 *.log
-kit.tar.gz
-dl-kit.mjs
-transcripts.tar.gz
